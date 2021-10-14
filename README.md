@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Node, TS**
 
-- 👨‍💻 All of my projects are available at [patkub.pl](https://patkub.pl)
+- 👨‍💻 All of my projects are available at [patkub.netlify.app](https://patkub.netlify.app)
 
 - 📫 How to reach me **patrykkubala1999@gmail.com**
 
