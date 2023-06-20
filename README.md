@@ -36,9 +36,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/patkub2/patkub2/output/snake.svg" alt="Snake animation" />
-
-###
